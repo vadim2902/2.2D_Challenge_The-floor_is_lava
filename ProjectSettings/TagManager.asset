@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lava
+  - Ground
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lava
+    uniqueID: 1928620063
+    locked: 0
+  - name: Background
+    uniqueID: 3114182573
+    locked: 0
+  - name: Playground
+    uniqueID: 2547676465
+    locked: 0
+  - name: MidLayer
+    uniqueID: 52899857
+    locked: 0
+  - name: FirstLayer
+    uniqueID: 502664157
+    locked: 0
